@@ -1,0 +1,23 @@
+{
+  "mcpServers": {
+    "ExpenseTracker": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "C:\\Users\\rajab\\OneDrive\\Desktop\\mcp_server\\main.py"
+      ],
+      "env": {},
+      "transport": "stdio",
+      "type": null,
+      "cwd": null,
+      "timeout": null,
+      "description": null,
+      "icon": null,
+      "authentication": null
+    }
+  }
+}
