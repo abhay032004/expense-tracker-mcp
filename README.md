@@ -38,7 +38,7 @@ Python 3.8 or higher
 pip (Python package manager)
 
 Step 1: Clone the Repository
-bashgit clone https://github.com/yourusername/expense-tracker-mcp.git
+bashgit clone (https://github.com/abhay032004/expense-tracker-mcp.git)
 cd expense-tracker-mcp
 Step 2: Install Dependencies
 bashpip install fastmcp
@@ -368,3 +368,4 @@ The open-source community
 
 ⭐ If you find this project useful, please give it a star! ⭐
 Made with ❤️ and Python
+
